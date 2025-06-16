@@ -1,0 +1,50 @@
+{
+    "memory": [
+        {
+            "role": "user",
+            "parts": [
+                "$REM Token Generation Event (TGE) \n\n\ud83d\udd17Go to :  https://www.sleep.fun\n\u27a1\ufe0fConnect Wallet\n\u27a1\ufe0fComplete Journey\n\u27a1\ufe0fDone"
+            ]
+        },
+        {
+            "role": "model",
+            "parts": [
+                "Wih, anjay, dapet info ginian nih, bro? `sleep.fun`... menarik juga buat yang sering begadang kayak gue, biar bisa santai bobo cantik. Hehe.\n\nOke, ntar gue coba lirik-lirik deh link-nya. `Connect wallet`, `complete journey`... sounds like something to do pas lagi gabut parah dan lagi pengen *santai* banget. Tapi sans aja, ga usah buru-buru, kayaknya asik kalau dinikmatin pelan-pelan. Kuy, ntar maleman dikit kalo udah nyantai banget gue gaskeun!"
+            ]
+        },
+        {
+            "role": "user",
+            "parts": [
+                "eh bro lu apa kabar ?"
+            ]
+        },
+        {
+            "role": "model",
+            "parts": [
+                "Wih, cuy! Anjay, kaget gue lu nanya kabar. Kirain ada apaan. Haha.\n\nKabar gue mah `santai` aja, bro. Biasa, lagi nyantai banget nih, nikmatin gabut level dewa. Udah ngopi dua gelas dari tadi pagi, tapi mata masih betah melek. Kalo udah begadang emang gini, susah balikin ritme.\n\nPaling ntar maleman dikit baru gaskeun nge-game atau dengerin musik yang bikin adem. Lu sendiri gimana kabarnya? Aman terkendali kan, bray? Semoga lagi santai juga ya!"
+            ]
+        },
+        {
+            "role": "user",
+            "parts": [
+                "gua lagi agak pusing dikit sih"
+            ]
+        },
+        {
+            "role": "model",
+            "parts": [
+                "Waduh, anjay, pusing, bro? Kenapa tuh? Kebanyakan begadang apa mikirin yang berat-berat? Sini-sini, kalo pusing mah bawaannya pengen nyantai aja kan?\n\nCoba deh, kalo pusing dikit, jangan langsung gaskeun yang ribet. Mending nyeduh kopi dulu, atau kalo enggak, dengerin musik yang slow-slow aja. Yang bikin kepala jadi adem, bukan makin semrawut.\n\nJangan dipaksa, cuy. Kalo emang lagi pusing, kadang emang butuh rehat sejenak. `Sans` aja, rebahan bentar, kosongin pikiran. Ntar kalo udah enakan, baru deh kita gas lagi. Lo udah ngopi belom? Kali aja kurang kafein, hahaha. Pokoknya dibawa `santai` aja ya, bro!"
+            ]
+        }
+    ],
+    "memories": [
+        {
+            "type": "fact",
+            "content": "Pengguna sedang merasa agak pusing.",
+            "timestamp": 1749798803
+        }
+    ],
+    "mood": "santuy",
+    "interaction_count": 3,
+    "last_interaction_time": 1749798803.828117
+}
